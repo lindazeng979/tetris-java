@@ -1,20 +1,19 @@
 # Tetris
 
+<img src="assets/tetris-demo.png" align="right" width="170">
+
 The iconic Tetris puzzle game implemented in Java, complete with music! Rotate and place falling pieces to clear lines, score points, and prevent the board from filling up.
 
-This project explores game development fundamentals including grid-based movement, collision detection, object-oriented programming, event handling, and Java GUI design.
-
-![Game Screenshot](assets/tetris-demo.png)
-
-## Features
-
+### Features
 - Classic Tetris gameplay with falling tetrominoes
-- Piece rotation, movement, and hard drop mechanics
+- Piece rotation, movement, and hard drop
 - Line-clearing and score tracking
 - Game-over detection
 - Background grid rendering
-- Background music and sound support
+- Background music
 - Java Swing-based graphical interface
+
+Built to explore grid-based game mechanics, object-oriented programming, user input, and GUI development.
 
 ## Getting Started
 
@@ -38,7 +37,7 @@ Run the `Tetris` class to launch the game. A game window will appear displaying 
 
 For the best experience, turn your sound on!
 
-## Controls
+### Controls
 
 | Key | Action |
 |------|----------|
@@ -47,7 +46,7 @@ For the best experience, turn your sound on!
 | ↑ | Rotate piece |
 | Space | Hard drop |
 
-## Gameplay
+### Gameplay
 
 - Arrange falling pieces to complete horizontal lines.
 - Completed lines are cleared and award points.
